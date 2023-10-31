@@ -1,6 +1,6 @@
 # Qanday qilib kompyuter fanini mustaqil o'rganish mumkin?
 
-_Ushbu usul ingliz tilidan [Mansur Isakov](https://github.com/MansurIsakov) tomonidan tarjima qilingan. Original [Oz Nova](https://twitter.com/oznova_) va [Myles Byrne](https://twitter.com/quackingduck) tomonidan yaratilgan va https://teachyourselfcs.com/ havolasi orqali mavjud.\_
+_Ushbu usul ingliz tilidan [Mansur Isakov](https://github.com/MansurIsakov) tomonidan tarjima qilingan. Original [Oz Nova](https://twitter.com/oznova_) va [Myles Byrne](https://twitter.com/quackingduck) tomonidan yaratilgan va https://teachyourselfcs.com/ havolasi orqali mavjud._
 
 Agar siz o'zingiz dasturlashni o'rgangan bo'lsangiz yoki yaqinda bootcampdan o'tgan bo'lsangiz, keyingi qadamingiz kasbni o'rganish va kompyuter fanini o'rganishdir. Hozirgi kunda kompyuter fanlari bo'yicha eng yaxshi universitetlar darajasida ta'lim olish mumkin, bunga yillar va boylik sarflamasdan💸.
 
