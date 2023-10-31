@@ -161,7 +161,7 @@ Olingan bilimlarni mustahkamlashning ajoyib usuli - bu kichik yadro kodini o'qis
 
 Kompyuter tarmoqlari CS-ning eng muhim sohalaridan biridir, chunki dasturiy ta'minotni ishlab chiqishning aksariyati veb-saytga va shunga mos ravishda mijoz-server arxitekturasiga ta'sir qiladi. Kompyuter tarmoqlarini mustaqil ravishda o'rgangan talabalarimiz nihoyat ularni yillar davomida o'rab turgan atamalar, tushunchalar va protokollarni tushunishga muvaffaq bo'lganliklarini tan olishdi.
 
-Ushbu mavzu bo'yicha bizning sevimli kitobimiz _[Computer Networking: A Top-Down Approach](https://smile.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/)_. Kitobda yaxshi loyihalar va mashqlar mavjud va ayniqsa biz [bular](http://www-net.cs.umass.edu/wireshark-labs/)ni tavsiya qilamiz internetda mavjud bo'lgan laboratoriya.
+Ushbu mavzu bo'yicha bizning sevimli kitobimiz _[Computer Networking: A Top-Down Approach](https://smile.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/)_. Kitobda yaxshi loyihalar va mashqlar mavjud va ayniqsa biz [bularni](http://www-net.cs.umass.edu/wireshark-labs/) tavsiya qilamiz internetda mavjud bo'lgan laboratoriya.
 
 Video ma'ruzalardan o'rganishni afzal ko'rganlar uchun biz Stenford kursini sinab ko'rishni maslahat beramiz [_Introduction to Computer Networking_](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z), ilgari Stenfordning rasmiy ochiq kursi sifatida mavjud bo'lgan, ammo hozirda Afsuski, uni faqat YouTube-da norasmiy pleylist sifatida topish mumkin.
 
@@ -177,7 +177,7 @@ Shunday qilib, biz ushbu sohani mustaqil ravishda o'rganishni istaganlarga darsl
 
 Ushbu sohada yangi boshlanuvchilar uchun eslatib o'tish kerak bo'lgan maqolalardan biri "[Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)". Bu yaxshi, chunki u relyatsion ma'lumotlar bazasini boshqarish tizimlari qanday ishlashi haqida umumiy tushunchalarni beradi. Bu keyingi mashg'ulotlar uchun ajoyib asos bo'lib xizmat qiladi.
 
-_Readings in Database Systems_, ko'proq ["Qizil kitob"](http://www.redbook.io/) nomi bilan tanilgan - Piter Baylis, Jo Xellersteyn va Maykl Stounbraker tomonidan to'plangan va tahrirlangan maqolalar to'plami. CS 186 kursini yaxshi o'rganganlar uchun qizil kitob keyingi qadamdir.
+_Readings in Database Systems_, ko'proq "[Qizil kitob](http://www.redbook.io/)" nomi bilan tanilgan - Piter Baylis, Jo Xellersteyn va Maykl Stounbraker tomonidan to'plangan va tahrirlangan maqolalar to'plami. CS 186 kursini yaxshi o'rganganlar uchun qizil kitob keyingi qadamdir.
 
 Agar siz hali ham ushbu sohani o'rganish uchun darslikdan foydalanishni afzal ko'rsangiz, biz ko'rib chiqishni taklif qilamiz _[Database Management Systems](https://smile.amazon.com/Database-Management-Systems-Raghu-Ramakrishnan/dp/0072465638/)_. Agar siz yanada rivojlangan darajaga o'tishni istasangiz, jim Greyning klassik kitobiga e'tibor berishingiz kerak _[Transaction Processing: Concepts and Techniques](https://www.amazon.com/Transaction-Processing-Concepts-Techniques-Management/dp/1558601902)_.
 
@@ -237,7 +237,7 @@ Shunday qilib, bizning qo'llanmamizda taklif qilingan tartib sizga yordam berish
 
 Ushbu qo'llanma 2016 yilda yaratilgan. O'sha paytda [Open Source Society](https://github.com/open-source-society/computer-science) qo'llanma juda ko'p fanlarni o'z ichiga olgan, o'rganish uchun taklif qilingan ba'zi resurslar kam edi, bundan tashqari, unda o'rganish uchun taklif qilingan jihatlar va kurslarni tanlash asoslanmagan. Biz o'z qo'llanmamizda faqat ixtisoslashuvidan qat'i nazar, har bir dasturchi bilishi kerak bo'lgan resurslarni to'plashga harakat qildik. Bundan tashqari, biz tanlovimizni asoslashga va bu erda keltirilgan manbalarning har biri nima uchun kerakligini tushunishga harakat qildik. Vaqt o'tishi bilan Open Source Society qo'llanmasi yaxshilandi, ammo biz hali ham qo'llanmamiz yanada tushunarli va yaxlit dasturni taklif qilishiga ishonamiz.
 
-FreeCodeCamp - ning asosiy yo'nalishi kompyuter fanlari emas, balki dasturlashdir. Nima uchun kompyuter fanlarini aniq o'rganishingiz kerakligi haqidagi tushuntirishni [yuqorida](dasturlash) topish mumkin. Ammo, agar siz dasturlashda yangi bo'lsangiz, avval freeCodeCamp-dan o'tishni maslahat beramiz va bir-ikki yil ichida bizning qo'llanmamizga qaytamiz.
+FreeCodeCamp - ning asosiy yo'nalishi kompyuter fanlari emas, balki dasturlashdir. Nima uchun kompyuter fanlarini aniq o'rganishingiz kerakligi haqidagi tushuntirishni [yuqorida](#bu-hali-ham-kopdek-tuyuladimi) topish mumkin. Ammo, agar siz dasturlashda yangi bo'lsangiz, avval freeCodeCamp-dan o'tishni maslahat beramiz va bir-ikki yil ichida bizning qo'llanmamizga qaytamiz.
 
 ### X tili haqida nima deyish mumkin?
 
@@ -261,7 +261,7 @@ Biz taklif qilgan ko'plab kitoblar ingliz tilida bepul onlayn mavjud. Bunday sax
 
 ### Ushbu qo'llanmani kim yaratgan?
 
-Ushbu qo'llanmaning birinchi versiyasi [Oz Nova](https://twitter.com/oznova_) tomonidan yaratilgan va [Myles Byrne](https://twitter.com/quackingduck), 2020 yilda u oz tomonidan yangilandi. Qo'llanma San - Frantsiskodagi kichik oflayn guruhlarda va internetda mingdan ortiq Bootcamp bitiruvchilari va rasmiy ma'lumotga ega bo'lmagan dasturchilar uchun kompyuter fanlarini o'qitish tajribamizga asoslanadi. Biz barcha talabalarimizga fidbek uchun minnatdorchilik bildiramiz.
+Ushbu qo'llanmaning birinchi versiyasi [Oz Nova](https://twitter.com/oznova_) tomonidan yaratilgan va [Myles Byrne](https://twitter.com/quackingduck), 2020 yilda u oz tomonidan yangilandi. Qo'llanma San-Frantsiskodagi kichik oflayn guruhlarda va internetda mingdan ortiq Bootcamp bitiruvchilari va rasmiy ma'lumotga ega bo'lmagan dasturchilar uchun kompyuter fanlarini o'qitish tajribamizga asoslanadi. Biz barcha talabalarimizga fidbek uchun minnatdorchilik bildiramiz.
 
 Ishonchimiz komilki, etarli vaqt va xohish bilan siz biz yozgan hamma narsani o'zingiz o'rganishingiz mumkin. Ammo agar siz o'qituvchi sizni boshqaradigan intensiv, tuzilgan dasturni afzal ko'rsangiz, bizning [CS intensiv](https://bradfieldcs.com/csi/) sinab ko'ring. Biz sizga magistraturaga borishingizni [tavsiya qilmaymiz](https://ozwrites.com/masters/).
 
