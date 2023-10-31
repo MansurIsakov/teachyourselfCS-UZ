@@ -103,7 +103,7 @@ Kitobni tushunish juda oson, garchi u ham apparat, ham dasturiy ta'minotni qamra
 
 Agar siz Nand2Tetris bilan yaxshi tanish bo'lsangiz, _Kompyuter tizimlari: arxitektura va dasturlash kitobiga qaytishni tavsiya qilamiz. Dasturchi qarash_ yoki allaqachon klassik kitobni o'qishga harakat qiling _Kompyuter arxitekturasi va kompyuter tizimlarini loyihalash_ Patterson va Hennesi (_[Computer Organization and Design](https://smile.amazon.com/Computer-Organization-Design-Fifth-Architecture/dp/0124077269)_). Ushbu kitobning ba'zi boblarini o'tkazib yuborish mumkin, bu juda batafsil; biz [CS61C course](http://inst.eecs.berkeley.edu/~cs61c/sp15/) Berkli universiteti tomonidan muayyan mavzularni o'rganish uchun. Ma'ruza yozuvlari va laboratoriya yozuvlari internetda mavjud va ma'ruzalarning eski versiyalarini [arxiv](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_) da topish mumkin.
 
-...### Algoritmlar va ma'lumotlar tuzilmalari
+### Algoritmlar va ma'lumotlar tuzilmalari
 
 <img align="left" width="200" src="https://teachyourselfcs.com/skiena.jpg">
 
