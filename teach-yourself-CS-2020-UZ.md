@@ -1,6 +1,6 @@
 # Qanday qilib kompyuter fanini mustaqil o'rganish mumkin?
 
-_Ushbu usul ingliz tilidan [Mansur Isakov](https://github.com/MansurIsakov) tomonidan tarjima qilingan. Original [Oz Nova](https://twitter.com/oznova_) va [Myles Byrne](https://twitter.com/quackingduck) tomonidan yaratilgan va https://teachyourselfcs.com/ havolasi orqali mavjud._
+_Ushbu usul ingliz tilidan [Mansur Isakov](https://github.com/MansurIsakov) tomonidan tarjima qilingan. Original [Oz Nova](https://twitter.com/oznova_) va [Myles Byrne](https://twitter.com/quackingduck) tomonidan yaratilgan va https://teachyourselfcs.com/ havolasi orqali mavjud.\_
 
 Agar siz o'zingiz dasturlashni o'rgangan bo'lsangiz yoki yaqinda bootcampdan o'tgan bo'lsangiz, keyingi qadamingiz kasbni o'rganish va kompyuter fanini o'rganishdir. Hozirgi kunda kompyuter fanlari bo'yicha eng yaxshi universitetlar darajasida ta'lim olish mumkin, bunga yillar va boylik sarflamasdan💸.
 
@@ -57,6 +57,25 @@ Biz kitobning kamida uchta bobidan o'tishni tavsiya etamiz _Kompyuter dasturlari
 Ushbu qo'llanma birinchi marta 2016-da nashr etilganligi sababli, bizdan tez-tez jon Deneroning 61a kursining yangi versiyasini va ularga mos keladigan _[Composing Programs](https://composingprograms.com/)_ kitobini tavsiya etamizmi, deb so'rashadi, unda asosiy dasturlash tili Python hisoblanadi. Bizning fikrimizcha, Denero kursi ham juda yomon emas va ba'zi talabalar bundan ham ko'proq zavqlanishadi. Ammo biz hali ham kitobdan boshlashni maslahat beramiz _Kompyuter dasturlarining tuzilishi va talqini_ va Brayan Xarvi kursi. Biz ushbu manbalar noyob ekanligiga ishonamiz va ular kompyuterlar va dasturlash haqidagi fikringizni tubdan o'zgartirishi mumkin. Albatta, ular hamma uchun mos emas. Kimdir kitobni yoqtirmaydi, ko'pchilik birinchi sahifalardan tashqariga chiqmaydi. Ammo bu kitob katta salohiyatga ega va uni o'qishga arziydi.
 
 Agar _Kompyuter dasturlarining tuzilishi va talqini_ hali ham yoqmasa, _Composing Programs_ - ni sinab ko'ring. Agar siz yana bu narsa emasligini his qilsangiz, harakat qilib ko'ring _[How to Design Programs](http://www.htdp.org/)_. Agar ularning barchasi juda murakkab bo'lib tuyulsa, ularni bir muddat chetga surib, boshqa mavzularga o'tishga harakat qiling va bir-ikki yil ichida ularga qaytib boring.
+
+Ushbu qo'llanma dasturlash haqida hech narsa bilmaydiganlar uchun yaratilmaganligini aniqlashtirmoqchimiz. Bu ko'proq kompyuter fanlarida rasmiy ma'lumotga ega bo'lmagan va nazariy asosga ega bo'lmagan tajribali dasturchilarga qaratilgan. Biz har doim intilish uchun joy borligini eslatish uchun qo'llanmamizga dasturlash bo'limini kiritdik. Ehtimol, bu kitoblar sizning bilimingizdagi bo'shliqlarni to'ldirishga yordam beradi. Agar siz ilgari hech qachon dasturlashtirmagan bo'lsangiz, lekin chindan ham o'rganishni xohlasangiz, avval [bu](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started) kabi qo'llanmani sinab ko'rishingiz kerak.
+
+## Mavzular bo'yicha ko'rsatmalar
+
+### Dasturlash
+
+<img align="left" width="200" src="https://teachyourselfcs.com/sicp.jpg">
+
+Kompyuter fanlari bo'yicha bakalavr dasturlarining aksariyati dasturlashga "kirish" bilan boshlanadi. Ushbu kurslarning eng yaxshisi nafaqat yangi boshlanuvchilar uchun, balki muhim nazariy tushunchalarni o'rganish bosqichini o'tkazib yuborib, avval kodlashni o'rganganlar uchun ham muhimdir.
+
+Bunday materialni o'rganish uchun odatda klassik kitob tavsiya etiladi _Kompyuter dasturlarining tuzilishi va talqini_ (_Structure and Interpretation of Computer Programs_) va MIT tomonidan shu nomdagi ma'ruzalar kursi. Va [kitob](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html), va [kurs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
+internetda mutlaqo bepul (ingliz tilida) mavjud. Biz bu ma'ruzalarni juda yaxshi ko'ramiz, lekin ularning o'rniga [Brayan Xarvi ma'ruza kursini](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) olishni taklif qilamiz Berkli universitetining 61a kursining yozuvi. Bizning fikrimizcha, ulardagi ma'lumotlar batafsilroq tahlil qilinadi va yangi boshlanuvchilar uchun ularni idrok etish osonroq bo'ladi.
+
+Biz kitobning kamida uchta bobidan o'tishni tavsiya etamiz _Kompyuter dasturlarining tuzilishi va talqini_ va ular uchun mashqlarni bajaring. Bunga qo'shimcha ravishda, siz [exercism](http://exercism.io/) da vazifalarni hal qilishingiz mumkin.
+
+Ushbu qo'llanma birinchi marta 2016-da nashr etilganligi sababli, bizdan tez-tez jon Deneroning 61a kursining yangi versiyasini va ularga mos keladigan _[Composing Programs](https://composingprograms.com/)_ kitobini tavsiya etamizmi, deb so'rashadi, unda asosiy dasturlash tili Python hisoblanadi. Bizning fikrimizcha, Denero kursi ham juda yomon emas va ba'zi talabalar bundan ham ko'proq zavqlanishadi. Ammo biz hali ham kitobdan boshlashni maslahat beramiz _Kompyuter dasturlarining tuzilishi va talqini_ va Brayan Xarvi kursi. Biz ushbu manbalar noyob ekanligiga ishonamiz va ular kompyuterlar va dasturlash haqidagi fikringizni tubdan o'zgartirishi mumkin. Albatta, ular hamma uchun mos emas. Kimdir kitobni yoqtirmaydi, ko'pchilik birinchi sahifalardan tashqariga chiqmaydi. Ammo bu kitob katta salohiyatga ega va uni o'qishga arziydi.
+
+Agar _Kompyuter dasturlarining tuzilishi va talqini_ hali ham yoqmasa, _Composing Programs_ - ni sinab ko'ring. Agar siz yana bu narsa emasligini his qilsangiz, _[How to Design Programs](http://www.htdp.org/)_ harakat qilib ko'ring. agar ularning barchasi juda murakkab bo'lib tuyulsa, ularni bir muddat chetga surib, boshqa mavzularga o'tishga harakat qiling va bir-ikki yil ichida ularga qaytib boring.
 
 Ushbu qo'llanma dasturlash haqida hech narsa bilmaydiganlar uchun yaratilmaganligini aniqlashtirmoqchimiz. Bu ko'proq kompyuter fanlarida rasmiy ma'lumotga ega bo'lmagan va nazariy asosga ega bo'lmagan tajribali dasturchilarga qaratilgan. Biz har doim intilish uchun joy borligini eslatish uchun qo'llanmamizga dasturlash bo'limini kiritdik. Ehtimol, bu kitoblar sizning bilimingizdagi bo'shliqlarni to'ldirishga yordam beradi. Agar siz ilgari hech qachon dasturlashtirmagan bo'lsangiz, lekin chindan ham o'rganishni xohlasangiz, avval [bu](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started) kabi qo'llanmani sinab ko'rishingiz kerak.
 
