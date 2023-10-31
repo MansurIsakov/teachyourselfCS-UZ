@@ -143,7 +143,7 @@ Chiziqli algebrani o'rganishni [Essence of linear algebra](https://www.youtube.c
 
 <img align="left" width="200" src="https://teachyourselfcs.com/ostep.jpeg">
 
-Operatsion tizimlar bo'yicha ikkita klassik kitob - _[Operating System Concepts](https://www.amazon.com/dp/1118063333/) _ va _Zamonaviy operatsion tizimlar_ Tanenbaum (_[Modern Operating Systems](https://www.amazon.com/dp/013359162X/)_). Ushbu ikkala kitob ham chalkashligi va haddan tashqari murakkabligi uchun tanqid qilinadi, ular o'rtacha talaba uchun juda mos emas.
+Operatsion tizimlar bo'yicha ikkita klassik kitob - _[Operating System Concepts](https://www.amazon.com/dp/1118063333/)_ va _Zamonaviy operatsion tizimlar_ Tanenbaum _([Modern Operating Systems](https://www.amazon.com/dp/013359162X/)_). Ushbu ikkala kitob ham chalkashligi va haddan tashqari murakkabligi uchun tanqid qilinadi, ular o'rtacha talaba uchun juda mos emas.
 
 Yaxshi alternativ - _Operating Systems: Three Easy Pieces_, u [bepul mavjud](http://pages.cs.wisc.edu/~remzi/OSTEP/) ingliz tilida. Bizga, ayniqsa, kitobning tuzilishi va uni o'qish qulayligi yoqadi. Ushbu kitobdagi mashqlar, albatta, ularga vaqt ajratishga arziydi.
 
